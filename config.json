@@ -1,0 +1,7 @@
+{
+  "interfaces": {
+    "external": "0.0.0.0",
+    "internal": "127.0.0.1"
+  },
+  "telnet": ["internal", 7999]
+}
